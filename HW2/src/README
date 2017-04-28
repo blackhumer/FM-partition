@@ -1,0 +1,4 @@
+Use "make" to compile.
+Use "make case1 (or 2, 3)"to execute.
+Use "make verify1 (or 2, 3)"to verify output.
+Use "make clean" to remove the binary of FM_Partitioner.cpp.
